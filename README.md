@@ -1,2 +1,28 @@
-# dc92e209-devops-infrastructure-meetin
-Structured meeting agendas, action items, decision history, and follow-up automation. Eliminates meeting chaos and lost decisions.
+# DevOps & Infrastructure Meeting Notes and Decision Log Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI8wP9z9aQAf445bud071x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI8wP9z9aQAf445bud071x)
+
